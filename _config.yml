@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiaoguang Mei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Associate Professor, Electronic Information School, Wuhan University"
   location         : "Wuhan, China"
-  employer         : "Wuhan Universiy"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "meixiaoguang@gmail.com"
