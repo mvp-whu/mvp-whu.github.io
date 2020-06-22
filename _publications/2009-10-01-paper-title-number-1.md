@@ -7,7 +7,7 @@ date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Chen, J., Li, X., Luo, L., Mei, X.*, & Ma, J. (2020). Infrared and visible image fusion based on target-enhanced multiscale transform decomposition. Information Sciences, 508, 64-78.'
----
+--- 
 
 1. Chen, J., Li, X., Luo, L., Mei, X.*, & Ma, J. (2020). Infrared and visible image fusion based on target-enhanced multiscale transform decomposition. Information Sciences, 508, 64-78.
 1. Jin, Q., Ma, Y., Pan, E., Fan, F., Huang, J., Li, H., … & Mei, X*. (2019). Hyperspectral Unmixing with Gaussian Mixture Model and Spatial Group Sparsity. Remote Sensing, 11(20), 2434.[code]
