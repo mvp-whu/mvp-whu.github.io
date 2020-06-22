@@ -1,3 +1,14 @@
+---
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+---
+
 1. Chen, J., Li, X., Luo, L., Mei, X.*, & Ma, J. (2020). Infrared and visible image fusion based on target-enhanced multiscale transform decomposition. Information Sciences, 508, 64-78.
 1. Jin, Q., Ma, Y., Pan, E., Fan, F., Huang, J., Li, H., … & Mei, X*. (2019). Hyperspectral Unmixing with Gaussian Mixture Model and Spatial Group Sparsity. Remote Sensing, 11(20), 2434.[code]
 1. Ma, Y., Zhang, Y., Mei, X.*, Dai, X., & Ma, J. (2019). Multifeature-Based Discriminative Label Consistent K-SVD for Hyperspectral Image Classification. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
