@@ -3,6 +3,7 @@ title: "Before 2020"
 collection:  
 permalink:  
 excerpt: 
+
 venue: 
 paperurl: 
 citation: 
