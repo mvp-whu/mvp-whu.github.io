@@ -1,13 +1,4 @@
----
-title: "Before 2020"
-collection:  
-permalink:  
-excerpt: 
-date: 2018-10-19
-venue: 'IEEE'
-paperurl: 
-citation: 
---- 
+
 
 ## 2020
 1. Chen, J., Li, X., Luo, L., Mei, X.*, & Ma, J. (2020). Infrared and visible image fusion based on target-enhanced multiscale transform decomposition. Information Sciences, 508, 64-78.
